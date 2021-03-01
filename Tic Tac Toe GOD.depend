@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1561069699 source:c:\users\udai kahlon\desktop\my programs\tic tac toe god\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<time.h>
+	<windows.h>
+	<string>
+
